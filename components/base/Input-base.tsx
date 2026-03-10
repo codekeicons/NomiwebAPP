@@ -19,7 +19,7 @@ export const InputBase = ({Title, Name, Value, Placeholder, OnInput}: InputBaseP
           value={Value}
           onChange={OnInput}
           placeholder={Placeholder}
-          className='h-10 bg-gray-50 p-3  w-full rounded focus:outline-blue-800 border border-gray-300 ' />
+          className='h-10 bg-gray-50 p-3 text-black  w-full rounded focus:outline-blue-800 border border-gray-300 ' />
       </div>
     </>
   )

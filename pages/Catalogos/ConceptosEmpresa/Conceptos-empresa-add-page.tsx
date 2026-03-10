@@ -1,5 +1,6 @@
 "use client"
 
+import { ConceptoEmpresaRequest} from "@/data/Dtos/Requests/concepto-empresa-request"
 import { ButtonBase } from '@/components/base/Button-base';
 import { InputBase } from '@/components/base/Input-base'
 import { SelectBase } from '@/components/base/Select-base';

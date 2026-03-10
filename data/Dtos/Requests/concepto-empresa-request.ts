@@ -1,6 +1,6 @@
 
 
-type ConceptoEmpresaRequest = {
+export type ConceptoEmpresaRequest = {
     ClaveInterna: string
     Descripcion: string
     IdConceptoSat: number
